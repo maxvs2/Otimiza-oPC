@@ -1,0 +1,1 @@
+Você ira selecionar os campos que você deseja que o programa limpe, com isso você inicia o programa como administrador, e é só selecionar o que você deseja fazer
